@@ -8,6 +8,6 @@
 The dataset is my own, meticulously crafted by handpicking a diverse collection of images representing a wide array of Indian dishes, including iconic dishes like biryani, dosa, samosa, and many others.
 
 ## Future Scope
-**Enhanced Identification**: Increasinng the dataset images for better recognition
-**Deployment**: Consider deploying the model as a user-friendly application, potentially via web or mobile platforms, to foster broader accessibility and usability.
+- **Enhanced Identification**: Increasinng the dataset images for better recognition
+- **Deployment**: Consider deploying the model as a user-friendly application, potentially via web or mobile platforms, to foster broader accessibility and usability.
 
